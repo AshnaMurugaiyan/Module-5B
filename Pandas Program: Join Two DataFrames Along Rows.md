@@ -50,8 +50,10 @@ print(result_data)
 ```
 
 ## Output
-<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/2a30283b-fb3d-4653-8f08-f0f33522d9e1" />
-<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/e69afdf5-6603-45cd-a506-872240b8c9d3" />
+<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/79a02106-caed-4834-ad71-4220ba493608" />
+
+<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/882fd115-559b-4763-b421-c4c209e2abed" />
+
 
 
 ## Result
